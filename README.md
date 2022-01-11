@@ -1,6 +1,6 @@
 # INFO 3402 "Information Exposition"
-## Spring 2022
-## Brian Keegan, Assistant Professor
+**Spring 2022**
+**Brian Keegan, Assistant Professor**
 
 ## Course Objectives
 This course teaches students how to communicate the findings from their data analyses and to understand the ethics and implications of data communication and storytelling. Students will develop their computational skills for reshaping, analyzing, summarizing, and visualizing quantitative data using Python’s scientific libraries. Students will also develop their communication skills for interpreting, designing, and storytelling the findings of their analyses for general and professional audiences. Students will be evaluated on both their computational and communication skills through quizzes, weekly assignments, blog posts, and a final project. There is no midterm or final exam. Students will:
