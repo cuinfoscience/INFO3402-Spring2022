@@ -1,0 +1,441 @@
+Year,Month,County,Type,Sales
+2020,1,Adams,Recreational,9161056.0
+2020,1,Arapahoe,Recreational,11255656.0
+2020,1,Archuleta,Recreational,842953.0
+2020,1,Bent,Recreational,
+2020,1,Boulder,Recreational,8048704.0
+2020,1,Chaffee,Recreational,502604.0
+2020,1,Clear Creek,Recreational,688968.0
+2020,1,Conejos,Recreational,
+2020,1,Costilla,Recreational,334578.0
+2020,1,Crowley,Recreational,
+2020,1,Denver,Recreational,32725429.0
+2020,1,Eagle,Recreational,1964595.0
+2020,1,El Paso,Recreational,
+2020,1,Garfield,Recreational,1779794.0
+2020,1,Gilpin,Recreational,240660.0
+2020,1,Grand,Recreational,626116.0
+2020,1,Gunnison,Recreational,641199.0
+2020,1,Huerfano,Recreational,162039.0
+2020,1,Jefferson,Recreational,4389257.0
+2020,1,Lake,Recreational,
+2020,1,La Plata,Recreational,2345450.0
+2020,1,Larimer,Recreational,7671046.0
+2020,1,Las Animas,Recreational,3806589.0
+2020,1,Mesa,Recreational,1395679.0
+2020,1,Moffat,Recreational,
+2020,1,Montezuma,Recreational,1741219.0
+2020,1,Montrose,Recreational,
+2020,1,Morgan,Recreational,1501900.0
+2020,1,Otero,Recreational,
+2020,1,Ouray,Recreational,696495.0
+2020,1,Park,Recreational,388731.0
+2020,1,Pitkin,Recreational,1501527.0
+2020,1,Pueblo,Recreational,6107269.0
+2020,1,Routt,Recreational,1362765.0
+2020,1,Saguache,Recreational,254895.0
+2020,1,San Juan,Recreational,
+2020,1,San Miguel,Recreational,546613.0
+2020,1,Sedgwick,Recreational,
+2020,1,Summit,Recreational,2873525.0
+2020,1,Weld,Recreational,2326213.0
+2020,2,Adams,Recreational,9143186.0
+2020,2,Arapahoe,Recreational,11501463.0
+2020,2,Archuleta,Recreational,806623.0
+2020,2,Bent,Recreational,
+2020,2,Boulder,Recreational,7920664.0
+2020,2,Chaffee,Recreational,449651.0
+2020,2,Clear Creek,Recreational,648544.0
+2020,2,Conejos,Recreational,
+2020,2,Costilla,Recreational,348795.0
+2020,2,Crowley,Recreational,
+2020,2,Denver,Recreational,32649234.0
+2020,2,Eagle,Recreational,1959791.0
+2020,2,El Paso,Recreational,
+2020,2,Garfield,Recreational,1792134.0
+2020,2,Gilpin,Recreational,231904.0
+2020,2,Grand,Recreational,612478.0
+2020,2,Gunnison,Recreational,625097.0
+2020,2,Huerfano,Recreational,157235.0
+2020,2,Jefferson,Recreational,4304697.0
+2020,2,Lake,Recreational,
+2020,2,La Plata,Recreational,2303948.0
+2020,2,Larimer,Recreational,7649702.0
+2020,2,Las Animas,Recreational,3989609.0
+2020,2,Mesa,Recreational,1883643.0
+2020,2,Moffat,Recreational,
+2020,2,Montezuma,Recreational,1884355.0
+2020,2,Montrose,Recreational,
+2020,2,Morgan,Recreational,1548519.0
+2020,2,Otero,Recreational,
+2020,2,Ouray,Recreational,
+2020,2,Park,Recreational,364693.0
+2020,2,Pitkin,Recreational,1406907.0
+2020,2,Pueblo,Recreational,5923274.0
+2020,2,Routt,Recreational,1285386.0
+2020,2,Saguache,Recreational,265736.0
+2020,2,San Juan,Recreational,20789.0
+2020,2,San Miguel,Recreational,558901.0
+2020,2,Sedgwick,Recreational,
+2020,2,Summit,Recreational,2867024.0
+2020,2,Weld,Recreational,2323953.0
+2020,3,Adams,Recreational,10989274.0
+2020,3,Arapahoe,Recreational,13195567.0
+2020,3,Archuleta,Recreational,916578.0
+2020,3,Bent,Recreational,
+2020,3,Boulder,Recreational,9141582.0
+2020,3,Chaffee,Recreational,561435.0
+2020,3,Clear Creek,Recreational,678872.0
+2020,3,Conejos,Recreational,
+2020,3,Costilla,Recreational,437566.0
+2020,3,Crowley,Recreational,
+2020,3,Denver,Recreational,37144790.0
+2020,3,Eagle,Recreational,1886687.0
+2020,3,El Paso,Recreational,
+2020,3,Garfield,Recreational,2241940.0
+2020,3,Gilpin,Recreational,246896.0
+2020,3,Grand,Recreational,661002.0
+2020,3,Gunnison,Recreational,667205.0
+2020,3,Huerfano,Recreational,224744.0
+2020,3,Jefferson,Recreational,5200066.0
+2020,3,Lake,Recreational,295013.0
+2020,3,La Plata,Recreational,2802713.0
+2020,3,Larimer,Recreational,8575702.0
+2020,3,Las Animas,Recreational,4382701.0
+2020,3,Mesa,Recreational,2354555.0
+2020,3,Moffat,Recreational,
+2020,3,Montezuma,Recreational,2189509.0
+2020,3,Montrose,Recreational,
+2020,3,Morgan,Recreational,1752738.0
+2020,3,Otero,Recreational,289359.0
+2020,3,Ouray,Recreational,831789.0
+2020,3,Park,Recreational,461899.0
+2020,3,Pitkin,Recreational,1202870.0
+2020,3,Pueblo,Recreational,7337911.0
+2020,3,Routt,Recreational,1220117.0
+2020,3,Saguache,Recreational,325910.0
+2020,3,San Juan,Recreational,18137.0
+2020,3,San Miguel,Recreational,484426.0
+2020,3,Sedgwick,Recreational,
+2020,3,Summit,Recreational,2348948.0
+2020,3,Weld,Recreational,2683128.0
+2020,4,Adams,Recreational,10446363.0
+2020,4,Arapahoe,Recreational,12108380.0
+2020,4,Archuleta,Recreational,714722.0
+2020,4,Bent,Recreational,
+2020,4,Boulder,Recreational,8099503.0
+2020,4,Chaffee,Recreational,452748.0
+2020,4,Clear Creek,Recreational,414222.0
+2020,4,Conejos,Recreational,
+2020,4,Costilla,Recreational,440315.0
+2020,4,Crowley,Recreational,
+2020,4,Denver,Recreational,31160844.0
+2020,4,Eagle,Recreational,1126605.0
+2020,4,El Paso,Recreational,
+2020,4,Garfield,Recreational,2102674.0
+2020,4,Gilpin,Recreational,152423.0
+2020,4,Grand,Recreational,382636.0
+2020,4,Gunnison,Recreational,426312.0
+2020,4,Huerfano,Recreational,175608.0
+2020,4,Jefferson,Recreational,4316892.0
+2020,4,Lake,Recreational,249620.0
+2020,4,La Plata,Recreational,2576792.0
+2020,4,Larimer,Recreational,7711224.0
+2020,4,Las Animas,Recreational,3750308.0
+2020,4,Mesa,Recreational,2371358.0
+2020,4,Moffat,Recreational,1087434.0
+2020,4,Montezuma,Recreational,2393324.0
+2020,4,Montrose,Recreational,
+2020,4,Morgan,Recreational,1573798.0
+2020,4,Otero,Recreational,275275.0
+2020,4,Ouray,Recreational,790247.0
+2020,4,Park,Recreational,443813.0
+2020,4,Pitkin,Recreational,628976.0
+2020,4,Pueblo,Recreational,7445342.0
+2020,4,Routt,Recreational,721764.0
+2020,4,Saguache,Recreational,355961.0
+2020,4,San Juan,Recreational,
+2020,4,San Miguel,Recreational,202914.0
+2020,4,Sedgwick,Recreational,
+2020,4,Summit,Recreational,1020554.0
+2020,4,Weld,Recreational,2568084.0
+2020,5,Adams,Recreational,13163843.0
+2020,5,Arapahoe,Recreational,15053816.0
+2020,5,Archuleta,Recreational,1150154.0
+2020,5,Bent,Recreational,504288.0
+2020,5,Boulder,Recreational,10018004.0
+2020,5,Chaffee,Recreational,623793.0
+2020,5,Clear Creek,Recreational,610104.0
+2020,5,Conejos,Recreational,
+2020,5,Costilla,Recreational,641461.0
+2020,5,Crowley,Recreational,
+2020,5,Denver,Recreational,43963906.0
+2020,5,Eagle,Recreational,1323064.0
+2020,5,El Paso,Recreational,
+2020,5,Garfield,Recreational,2555934.0
+2020,5,Gilpin,Recreational,202928.0
+2020,5,Grand,Recreational,470217.0
+2020,5,Gunnison,Recreational,604243.0
+2020,5,Huerfano,Recreational,
+2020,5,Jefferson,Recreational,5434741.0
+2020,5,Lake,Recreational,
+2020,5,La Plata,Recreational,3510421.0
+2020,5,Larimer,Recreational,9860019.0
+2020,5,Las Animas,Recreational,6559828.0
+2020,5,Mesa,Recreational,2819667.0
+2020,5,Moffat,Recreational,1454633.0
+2020,5,Montezuma,Recreational,2887841.0
+2020,5,Montrose,Recreational,
+2020,5,Morgan,Recreational,2305296.0
+2020,5,Otero,Recreational,456873.0
+2020,5,Ouray,Recreational,950798.0
+2020,5,Park,Recreational,574822.0
+2020,5,Pitkin,Recreational,676949.0
+2020,5,Pueblo,Recreational,10194247.0
+2020,5,Routt,Recreational,840568.0
+2020,5,Saguache,Recreational,422802.0
+2020,5,San Juan,Recreational,17301.0
+2020,5,San Miguel,Recreational,215019.0
+2020,5,Sedgwick,Recreational,
+2020,5,Summit,Recreational,1161610.0
+2020,5,Weld,Recreational,3051727.0
+2020,6,Adams,Recreational,13245628.0
+2020,6,Arapahoe,Recreational,15475548.0
+2020,6,Archuleta,Recreational,1576742.0
+2020,6,Bent,Recreational,
+2020,6,Boulder,Recreational,10759641.0
+2020,6,Chaffee,Recreational,757847.0
+2020,6,Clear Creek,Recreational,792934.0
+2020,6,Conejos,Recreational,
+2020,6,Costilla,Recreational,705068.0
+2020,6,Crowley,Recreational,
+2020,6,Denver,Recreational,47719774.0
+2020,6,Eagle,Recreational,1582305.0
+2020,6,El Paso,Recreational,
+2020,6,Garfield,Recreational,2565672.0
+2020,6,Gilpin,Recreational,250680.0
+2020,6,Grand,Recreational,652513.0
+2020,6,Gunnison,Recreational,841215.0
+2020,6,Huerfano,Recreational,382156.0
+2020,6,Jefferson,Recreational,5719165.0
+2020,6,Lake,Recreational,357254.0
+2020,6,La Plata,Recreational,3849805.0
+2020,6,Larimer,Recreational,8405389.0
+2020,6,Las Animas,Recreational,7468580.0
+2020,6,Mesa,Recreational,2720456.0
+2020,6,Moffat,Recreational,1394796.0
+2020,6,Montezuma,Recreational,2872950.0
+2020,6,Montrose,Recreational,
+2020,6,Morgan,Recreational,2125034.0
+2020,6,Otero,Recreational,367925.0
+2020,6,Ouray,Recreational,994152.0
+2020,6,Park,Recreational,667435.0
+2020,6,Pitkin,Recreational,1029671.0
+2020,6,Pueblo,Recreational,10730061.0
+2020,6,Routt,Recreational,1042025.0
+2020,6,Saguache,Recreational,445601.0
+2020,6,San Juan,Recreational,
+2020,6,San Miguel,Recreational,422492.0
+2020,6,Sedgwick,Recreational,
+2020,6,Summit,Recreational,1973283.0
+2020,6,Weld,Recreational,2861164.0
+2020,7,Adams,Recreational,14501666.0
+2020,7,Arapahoe,Recreational,17272789.0
+2020,7,Archuleta,Recreational,1901822.0
+2020,7,Bent,Recreational,
+2020,7,Boulder,Recreational,12593191.0
+2020,7,Chaffee,Recreational,892277.0
+2020,7,Clear Creek,Recreational,963985.0
+2020,7,Conejos,Recreational,
+2020,7,Costilla,Recreational,782461.0
+2020,7,Crowley,Recreational,
+2020,7,Denver,Recreational,55559414.0
+2020,7,Eagle,Recreational,2128829.0
+2020,7,El Paso,Recreational,
+2020,7,Garfield,Recreational,2817708.0
+2020,7,Gilpin,Recreational,362501.0
+2020,7,Grand,Recreational,910474.0
+2020,7,Gunnison,Recreational,1152384.0
+2020,7,Huerfano,Recreational,471993.0
+2020,7,Jefferson,Recreational,6332915.0
+2020,7,Lake,Recreational,453214.0
+2020,7,La Plata,Recreational,4393130.0
+2020,7,Larimer,Recreational,10640199.0
+2020,7,Las Animas,Recreational,8223397.0
+2020,7,Mesa,Recreational,2915887.0
+2020,7,Moffat,Recreational,1565531.0
+2020,7,Montezuma,Recreational,3029187.0
+2020,7,Montrose,Recreational,
+2020,7,Morgan,Recreational,2225544.0
+2020,7,Otero,Recreational,401321.0
+2020,7,Ouray,Recreational,1174452.0
+2020,7,Park,Recreational,823082.0
+2020,7,Pitkin,Recreational,1648767.0
+2020,7,Pueblo,Recreational,12008343.0
+2020,7,Routt,Recreational,1092515.0
+2020,7,Saguache,Recreational,541017.0
+2020,7,San Juan,Recreational,158024.0
+2020,7,San Miguel,Recreational,665689.0
+2020,7,Sedgwick,Recreational,
+2020,7,Summit,Recreational,3029284.0
+2020,7,Weld,Recreational,3043883.0
+2020,8,Adams,Recreational,14132898.0
+2020,8,Arapahoe,Recreational,16909557.0
+2020,8,Archuleta,Recreational,1768671.0
+2020,8,Bent,Recreational,
+2020,8,Boulder,Recreational,12547631.0
+2020,8,Chaffee,Recreational,
+2020,8,Clear Creek,Recreational,936015.0
+2020,8,Conejos,Recreational,
+2020,8,Costilla,Recreational,763624.0
+2020,8,Crowley,Recreational,
+2020,8,Denver,Recreational,52011403.0
+2020,8,Eagle,Recreational,2077635.0
+2020,8,El Paso,Recreational,
+2020,8,Garfield,Recreational,2538125.0
+2020,8,Gilpin,Recreational,363139.0
+2020,8,Grand,Recreational,871406.0
+2020,8,Gunnison,Recreational,1172858.0
+2020,8,Huerfano,Recreational,506634.0
+2020,8,Jefferson,Recreational,5805803.0
+2020,8,Lake,Recreational,449116.0
+2020,8,La Plata,Recreational,4351267.0
+2020,8,Larimer,Recreational,10520821.0
+2020,8,Las Animas,Recreational,8014108.0
+2020,8,Mesa,Recreational,2832178.0
+2020,8,Moffat,Recreational,1566169.0
+2020,8,Montezuma,Recreational,2865594.0
+2020,8,Montrose,Recreational,
+2020,8,Morgan,Recreational,2129366.0
+2020,8,Otero,Recreational,382861.0
+2020,8,Ouray,Recreational,1179244.0
+2020,8,Park,Recreational,787264.0
+2020,8,Pitkin,Recreational,1644529.0
+2020,8,Pueblo,Recreational,11593542.0
+2020,8,Routt,Recreational,1286136.0
+2020,8,Saguache,Recreational,514522.0
+2020,8,San Juan,Recreational,
+2020,8,San Miguel,Recreational,652208.0
+2020,8,Sedgwick,Recreational,
+2020,8,Summit,Recreational,2915208.0
+2020,8,Weld,Recreational,2981981.0
+2020,10,Adams,Recreational,13204959.0
+2020,10,Arapahoe,Recreational,16450038.0
+2020,10,Archuleta,Recreational,1481254.0
+2020,10,Bent,Recreational,
+2020,10,Boulder,Recreational,11622740.0
+2020,10,Chaffee,Recreational,665749.0
+2020,10,Clear Creek,Recreational,817036.0
+2020,10,Conejos,Recreational,
+2020,10,Costilla,Recreational,641992.0
+2020,10,Crowley,Recreational,
+2020,10,Denver,Recreational,47172820.0
+2020,10,Eagle,Recreational,1639581.0
+2020,10,El Paso,Recreational,
+2020,10,Garfield,Recreational,2532550.0
+2020,10,Gilpin,Recreational,334252.0
+2020,10,Grand,Recreational,632651.0
+2020,10,Gunnison,Recreational,867733.0
+2020,10,Huerfano,Recreational,355511.0
+2020,10,Jefferson,Recreational,6031115.0
+2020,10,Lake,Recreational,316410.0
+2020,10,La Plata,Recreational,3689754.0
+2020,10,Larimer,Recreational,9893740.0
+2020,10,Las Animas,Recreational,6506906.0
+2020,10,Mesa,Recreational,2812739.0
+2020,10,Moffat,Recreational,1560740.0
+2020,10,Montezuma,Recreational,2738154.0
+2020,10,Montrose,Recreational,
+2020,10,Morgan,Recreational,2048009.0
+2020,10,Otero,Recreational,342674.0
+2020,10,Ouray,Recreational,1071466.0
+2020,10,Park,Recreational,679385.0
+2020,10,Pitkin,Recreational,1162883.0
+2020,10,Pueblo,Recreational,9977452.0
+2020,10,Routt,Recreational,1135205.0
+2020,10,Saguache,Recreational,440886.0
+2020,10,San Juan,Recreational,66015.0
+2020,10,San Miguel,Recreational,443974.0
+2020,10,Sedgwick,Recreational,1251442.0
+2020,10,Summit,Recreational,2409245.0
+2020,10,Weld,Recreational,2966860.0
+2020,11,Adams,Recreational,12189575.0
+2020,11,Arapahoe,Recreational,14959967.0
+2020,11,Archuleta,Recreational,1222101.0
+2020,11,Bent,Recreational,
+2020,11,Boulder,Recreational,10260558.0
+2020,11,Chaffee,Recreational,520658.0
+2020,11,Clear Creek,Recreational,646954.0
+2020,11,Conejos,Recreational,
+2020,11,Costilla,Recreational,494353.0
+2020,11,Crowley,Recreational,
+2020,11,Denver,Recreational,40862405.0
+2020,11,Eagle,Recreational,1490822.0
+2020,11,El Paso,Recreational,
+2020,11,Garfield,Recreational,2088902.0
+2020,11,Gilpin,Recreational,248060.0
+2020,11,Grand,Recreational,547683.0
+2020,11,Gunnison,Recreational,636555.0
+2020,11,Huerfano,Recreational,278077.0
+2020,11,Jefferson,Recreational,5086574.0
+2020,11,Lake,Recreational,
+2020,11,La Plata,Recreational,2883462.0
+2020,11,Larimer,Recreational,9485491.0
+2020,11,Las Animas,Recreational,5609146.0
+2020,11,Mesa,Recreational,2412084.0
+2020,11,Moffat,Recreational,1328243.0
+2020,11,Montezuma,Recreational,2247025.0
+2020,11,Montrose,Recreational,
+2020,11,Morgan,Recreational,1698832.0
+2020,11,Otero,Recreational,304039.0
+2020,11,Ouray,Recreational,845438.0
+2020,11,Park,Recreational,580611.0
+2020,11,Pitkin,Recreational,826204.0
+2020,11,Pueblo,Recreational,8649108.0
+2020,11,Routt,Recreational,774841.0
+2020,11,Saguache,Recreational,338611.0
+2020,11,San Juan,Recreational,24327.0
+2020,11,San Miguel,Recreational,276390.0
+2020,11,Sedgwick,Recreational,1216006.0
+2020,11,Summit,Recreational,2268825.0
+2020,11,Weld,Recreational,2692579.0
+2020,12,Adams,Recreational,12682090.0
+2020,12,Arapahoe,Recreational,15890336.0
+2020,12,Archuleta,Recreational,1473262.0
+2020,12,Bent,Recreational,
+2020,12,Boulder,Recreational,10458568.0
+2020,12,Chaffee,Recreational,609568.0
+2020,12,Clear Creek,Recreational,763454.0
+2020,12,Conejos,Recreational,
+2020,12,Costilla,Recreational,522280.0
+2020,12,Crowley,Recreational,
+2020,12,Denver,Recreational,42853367.0
+2020,12,Eagle,Recreational,2196488.0
+2020,12,El Paso,Recreational,
+2020,12,Garfield,Recreational,2253585.0
+2020,12,Gilpin,Recreational,249569.0
+2020,12,Grand,Recreational,857364.0
+2020,12,Gunnison,Recreational,768567.0
+2020,12,Huerfano,Recreational,270637.0
+2020,12,Jefferson,Recreational,5819236.0
+2020,12,Lake,Recreational,290620.0
+2020,12,La Plata,Recreational,3263824.0
+2020,12,Larimer,Recreational,9928725.0
+2020,12,Las Animas,Recreational,5280324.0
+2020,12,Mesa,Recreational,2531159.0
+2020,12,Moffat,Recreational,1317621.0
+2020,12,Montezuma,Recreational,2377939.0
+2020,12,Montrose,Recreational,
+2020,12,Morgan,Recreational,1580399.0
+2020,12,Otero,Recreational,328434.0
+2020,12,Ouray,Recreational,903226.0
+2020,12,Park,Recreational,647233.0
+2020,12,Pitkin,Recreational,1354243.0
+2020,12,Pueblo,Recreational,8692454.0
+2020,12,Routt,Recreational,990930.0
+2020,12,Saguache,Recreational,379800.0
+2020,12,San Juan,Recreational,28116.0
+2020,12,San Miguel,Recreational,473494.0
+2020,12,Sedgwick,Recreational,1212661.0
+2020,12,Summit,Recreational,3173188.0
+2020,12,Weld,Recreational,2893054.0

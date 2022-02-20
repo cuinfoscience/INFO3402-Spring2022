@@ -1,0 +1,406 @@
+Year,Month,County,Type,Sales
+2014,1,Adams,Medical,683098.0
+2014,1,Alamosa,Medical,
+2014,1,Arapahoe,Medical,1188232.0
+2014,1,Archuleta,Medical,
+2014,1,Boulder,Medical,3417873.0
+2014,1,Chaffee,Medical,83714.0
+2014,1,Clear Creek,Medical,143736.0
+2014,1,Costilla,Medical,
+2014,1,Denver,Medical,15351083.0
+2014,1,Eagle,Medical,203060.0
+2014,1,El Paso,Medical,4923633.0
+2014,1,Fremont,Medical,134388.0
+2014,1,Garfield,Medical,396086.0
+2014,1,Gilpin,Medical,28798.0
+2014,1,Grand,Medical,
+2014,1,Gunnison,Medical,36244.0
+2014,1,Jefferson,Medical,1979386.0
+2014,1,La Plata,Medical,523193.0
+2014,1,Larimer,Medical,964948.0
+2014,1,Mesa,Medical,
+2014,1,Moffat,Medical,
+2014,1,Montezuma,Medical,100634.0
+2014,1,Montrose,Medical,
+2014,1,Ouray,Medical,
+2014,1,Park,Medical,
+2014,1,Pitkin,Medical,194865.0
+2014,1,Pueblo,Medical,419894.0
+2014,1,Routt,Medical,239509.0
+2014,1,San Miguel,Medical,164384.0
+2014,1,Sedgwick,Medical,
+2014,1,Summit,Medical,271441.0
+2014,1,Teller,Medical,
+2014,1,Weld,Medical,657150.0
+2014,2,Adams,Medical,454940.0
+2014,2,Alamosa,Medical,
+2014,2,Arapahoe,Medical,1210155.0
+2014,2,Archuleta,Medical,
+2014,2,Boulder,Medical,3345413.0
+2014,2,Chaffee,Medical,
+2014,2,Clear Creek,Medical,111164.0
+2014,2,Costilla,Medical,
+2014,2,Denver,Medical,14680476.0
+2014,2,Eagle,Medical,185360.0
+2014,2,El Paso,Medical,5116438.0
+2014,2,Fremont,Medical,215839.0
+2014,2,Garfield,Medical,373432.0
+2014,2,Gilpin,Medical,32325.0
+2014,2,Grand,Medical,
+2014,2,Gunnison,Medical,
+2014,2,Jefferson,Medical,2044484.0
+2014,2,La Plata,Medical,521985.0
+2014,2,Larimer,Medical,1009841.0
+2014,2,Mesa,Medical,
+2014,2,Moffat,Medical,
+2014,2,Montezuma,Medical,103266.0
+2014,2,Montrose,Medical,
+2014,2,Ouray,Medical,
+2014,2,Park,Medical,
+2014,2,Pitkin,Medical,161237.0
+2014,2,Pueblo,Medical,418489.0
+2014,2,Routt,Medical,209165.0
+2014,2,San Miguel,Medical,94099.0
+2014,2,Sedgwick,Medical,
+2014,2,Summit,Medical,244818.0
+2014,2,Teller,Medical,
+2014,2,Weld,Medical,671024.0
+2014,3,Adams,Medical,477275.0
+2014,3,Alamosa,Medical,
+2014,3,Arapahoe,Medical,1490219.0
+2014,3,Archuleta,Medical,
+2014,3,Boulder,Medical,3505875.0
+2014,3,Chaffee,Medical,
+2014,3,Clear Creek,Medical,106955.0
+2014,3,Costilla,Medical,
+2014,3,Denver,Medical,16102218.0
+2014,3,Eagle,Medical,201147.0
+2014,3,El Paso,Medical,5929766.0
+2014,3,Fremont,Medical,222270.0
+2014,3,Garfield,Medical,401766.0
+2014,3,Gilpin,Medical,33416.0
+2014,3,Grand,Medical,
+2014,3,Gunnison,Medical,
+2014,3,Jefferson,Medical,2014285.0
+2014,3,La Plata,Medical,587114.0
+2014,3,Larimer,Medical,1234344.0
+2014,3,Mesa,Medical,
+2014,3,Moffat,Medical,
+2014,3,Montezuma,Medical,
+2014,3,Montrose,Medical,
+2014,3,Ouray,Medical,
+2014,3,Park,Medical,
+2014,3,Pitkin,Medical,157541.0
+2014,3,Pueblo,Medical,375711.0
+2014,3,Routt,Medical,214650.0
+2014,3,Saguache,Medical,
+2014,3,San Miguel,Medical,75215.0
+2014,3,Sedgwick,Medical,
+2014,3,Summit,Medical,253937.0
+2014,3,Teller,Medical,
+2014,3,Weld,Medical,580961.0
+2014,4,Adams,Medical,452636.0
+2014,4,Alamosa,Medical,
+2014,4,Arapahoe,Medical,1517828.0
+2014,4,Archuleta,Medical,
+2014,4,Boulder,Medical,3136133.0
+2014,4,Chaffee,Medical,
+2014,4,Clear Creek,Medical,92791.0
+2014,4,Costilla,Medical,
+2014,4,Denver,Medical,15064678.0
+2014,4,Eagle,Medical,178397.0
+2014,4,El Paso,Medical,5535184.0
+2014,4,Fremont,Medical,225243.0
+2014,4,Garfield,Medical,371447.0
+2014,4,Gilpin,Medical,43162.0
+2014,4,Grand,Medical,
+2014,4,Gunnison,Medical,
+2014,4,Jefferson,Medical,2039086.0
+2014,4,La Plata,Medical,613521.0
+2014,4,Larimer,Medical,1162178.0
+2014,4,Mesa,Medical,
+2014,4,Moffat,Medical,
+2014,4,Montezuma,Medical,108703.0
+2014,4,Montrose,Medical,
+2014,4,Ouray,Medical,
+2014,4,Park,Medical,
+2014,4,Pitkin,Medical,123525.0
+2014,4,Pueblo,Medical,401959.0
+2014,4,Routt,Medical,186308.0
+2014,4,San Miguel,Medical,64107.0
+2014,4,Sedgwick,Medical,
+2014,4,Summit,Medical,243097.0
+2014,4,Teller,Medical,
+2014,4,Weld,Medical,519545.0
+2014,5,Adams,Medical,467977.0
+2014,5,Alamosa,Medical,
+2014,5,Arapahoe,Medical,1511922.0
+2014,5,Archuleta,Medical,
+2014,5,Boulder,Medical,2823124.0
+2014,5,Chaffee,Medical,88974.0
+2014,5,Clear Creek,Medical,97349.0
+2014,5,Costilla,Medical,
+2014,5,Denver,Medical,14150620.0
+2014,5,Eagle,Medical,146126.0
+2014,5,El Paso,Medical,5518910.0
+2014,5,Fremont,Medical,239918.0
+2014,5,Garfield,Medical,434235.0
+2014,5,Gilpin,Medical,42979.0
+2014,5,Grand,Medical,
+2014,5,Gunnison,Medical,
+2014,5,Jefferson,Medical,2037535.0
+2014,5,La Plata,Medical,561810.0
+2014,5,Larimer,Medical,1116171.0
+2014,5,Mesa,Medical,
+2014,5,Moffat,Medical,
+2014,5,Montezuma,Medical,120385.0
+2014,5,Montrose,Medical,
+2014,5,Ouray,Medical,
+2014,5,Park,Medical,
+2014,5,Pitkin,Medical,95001.0
+2014,5,Pueblo,Medical,452196.0
+2014,5,Routt,Medical,159620.0
+2014,5,San Miguel,Medical,49679.0
+2014,5,Sedgwick,Medical,
+2014,5,Summit,Medical,201566.0
+2014,5,Teller,Medical,
+2014,5,Weld,Medical,516873.0
+2014,6,Adams,Medical,433176.0
+2014,6,Alamosa,Medical,
+2014,6,Arapahoe,Medical,1425313.0
+2014,6,Archuleta,Medical,
+2014,6,Boulder,Medical,2507058.0
+2014,6,Chaffee,Medical,96647.0
+2014,6,Clear Creek,Medical,97965.0
+2014,6,Costilla,Medical,
+2014,6,Denver,Medical,13476218.0
+2014,6,Eagle,Medical,132878.0
+2014,6,El Paso,Medical,5342494.0
+2014,6,Fremont,Medical,228665.0
+2014,6,Garfield,Medical,418280.0
+2014,6,Gilpin,Medical,38278.0
+2014,6,Grand,Medical,
+2014,6,Gunnison,Medical,
+2014,6,Jefferson,Medical,1889080.0
+2014,6,La Plata,Medical,544589.0
+2014,6,Larimer,Medical,1112079.0
+2014,6,Mesa,Medical,
+2014,6,Moffat,Medical,
+2014,6,Montezuma,Medical,115548.0
+2014,6,Montrose,Medical,
+2014,6,Ouray,Medical,
+2014,6,Park,Medical,
+2014,6,Pitkin,Medical,110679.0
+2014,6,Pueblo,Medical,403341.0
+2014,6,Routt,Medical,
+2014,6,Saguache,Medical,
+2014,6,San Miguel,Medical,75455.0
+2014,6,Sedgwick,Medical,
+2014,6,Summit,Medical,203354.0
+2014,6,Teller,Medical,
+2014,6,Weld,Medical,470633.0
+2014,7,Adams,Medical,452488.0
+2014,7,Alamosa,Medical,
+2014,7,Arapahoe,Medical,1470823.0
+2014,7,Archuleta,Medical,
+2014,7,Boulder,Medical,2547883.0
+2014,7,Chaffee,Medical,92938.0
+2014,7,Clear Creek,Medical,108796.0
+2014,7,Costilla,Medical,
+2014,7,Denver,Medical,14083010.0
+2014,7,Eagle,Medical,165132.0
+2014,7,El Paso,Medical,5895119.0
+2014,7,Fremont,Medical,250084.0
+2014,7,Garfield,Medical,446439.0
+2014,7,Gilpin,Medical,36110.0
+2014,7,Grand,Medical,
+2014,7,Gunnison,Medical,
+2014,7,Jefferson,Medical,1913729.0
+2014,7,La Plata,Medical,604088.0
+2014,7,Larimer,Medical,1087000.0
+2014,7,Mesa,Medical,
+2014,7,Moffat,Medical,
+2014,7,Montezuma,Medical,120802.0
+2014,7,Montrose,Medical,
+2014,7,Ouray,Medical,
+2014,7,Park,Medical,
+2014,7,Pitkin,Medical,117930.0
+2014,7,Pueblo,Medical,459326.0
+2014,7,Routt,Medical,
+2014,7,Saguache,Medical,
+2014,7,San Miguel,Medical,49131.0
+2014,7,Sedgwick,Medical,
+2014,7,Summit,Medical,189746.0
+2014,7,Teller,Medical,
+2014,7,Weld,Medical,303374.0
+2014,8,Adams,Medical,481873.0
+2014,8,Alamosa,Medical,
+2014,8,Arapahoe,Medical,1453140.0
+2014,8,Archuleta,Medical,
+2014,8,Boulder,Medical,2728671.0
+2014,8,Chaffee,Medical,75887.0
+2014,8,Clear Creek,Medical,102919.0
+2014,8,Costilla,Medical,
+2014,8,Denver,Medical,15861744.0
+2014,8,Eagle,Medical,171357.0
+2014,8,El Paso,Medical,6327504.0
+2014,8,Fremont,Medical,268966.0
+2014,8,Garfield,Medical,531623.0
+2014,8,Gilpin,Medical,42366.0
+2014,8,Grand,Medical,
+2014,8,Gunnison,Medical,
+2014,8,Jefferson,Medical,2021406.0
+2014,8,La Plata,Medical,657993.0
+2014,8,Larimer,Medical,1207539.0
+2014,8,Mesa,Medical,
+2014,8,Moffat,Medical,
+2014,8,Montezuma,Medical,132833.0
+2014,8,Montrose,Medical,
+2014,8,Ouray,Medical,
+2014,8,Park,Medical,
+2014,8,Pitkin,Medical,115179.0
+2014,8,Pueblo,Medical,460037.0
+2014,8,Routt,Medical,170505.0
+2014,8,Saguache,Medical,
+2014,8,San Miguel,Medical,46369.0
+2014,8,Sedgwick,Medical,
+2014,8,Summit,Medical,177412.0
+2014,8,Teller,Medical,
+2014,8,Weld,Medical,275556.0
+2014,9,Adams,Medical,453206.0
+2014,9,Alamosa,Medical,
+2014,9,Arapahoe,Medical,1353297.0
+2014,9,Archuleta,Medical,
+2014,9,Boulder,Medical,2715576.0
+2014,9,Chaffee,Medical,
+2014,9,Clear Creek,Medical,102603.0
+2014,9,Costilla,Medical,
+2014,9,Denver,Medical,15196933.0
+2014,9,Eagle,Medical,181480.0
+2014,9,El Paso,Medical,5953327.0
+2014,9,Fremont,Medical,233349.0
+2014,9,Garfield,Medical,527700.0
+2014,9,Gilpin,Medical,39786.0
+2014,9,Grand,Medical,
+2014,9,Gunnison,Medical,
+2014,9,Jefferson,Medical,1845807.0
+2014,9,La Plata,Medical,623331.0
+2014,9,Larimer,Medical,1315740.0
+2014,9,Mesa,Medical,
+2014,9,Moffat,Medical,
+2014,9,Montezuma,Medical,125628.0
+2014,9,Montrose,Medical,
+2014,9,Morgan,Medical,
+2014,9,Ouray,Medical,
+2014,9,Park,Medical,
+2014,9,Pitkin,Medical,100612.0
+2014,9,Pueblo,Medical,436843.0
+2014,9,Routt,Medical,167807.0
+2014,9,San Miguel,Medical,39758.0
+2014,9,Sedgwick,Medical,
+2014,9,Summit,Medical,179358.0
+2014,9,Teller,Medical,
+2014,9,Weld,Medical,287891.0
+2014,10,Adams,Medical,474637.0
+2014,10,Alamosa,Medical,
+2014,10,Arapahoe,Medical,1396842.0
+2014,10,Archuleta,Medical,
+2014,10,Boulder,Medical,2660593.0
+2014,10,Chaffee,Medical,
+2014,10,Clear Creek,Medical,102858.0
+2014,10,Costilla,Medical,
+2014,10,Denver,Medical,15006222.0
+2014,10,Eagle,Medical,206273.0
+2014,10,El Paso,Medical,5742846.0
+2014,10,Fremont,Medical,174220.0
+2014,10,Garfield,Medical,389617.0
+2014,10,Gilpin,Medical,
+2014,10,Grand,Medical,
+2014,10,Gunnison,Medical,
+2014,10,Jefferson,Medical,1923839.0
+2014,10,La Plata,Medical,531825.0
+2014,10,Larimer,Medical,1232929.0
+2014,10,Mesa,Medical,
+2014,10,Moffat,Medical,
+2014,10,Montezuma,Medical,
+2014,10,Montrose,Medical,
+2014,10,Morgan,Medical,
+2014,10,Ouray,Medical,
+2014,10,Park,Medical,
+2014,10,Pitkin,Medical,86614.0
+2014,10,Pueblo,Medical,352545.0
+2014,10,Routt,Medical,
+2014,10,San Miguel,Medical,36239.0
+2014,10,Sedgwick,Medical,
+2014,10,Summit,Medical,178233.0
+2014,10,Teller,Medical,
+2014,10,Weld,Medical,361629.0
+2014,11,Adams,Medical,480189.0
+2014,11,Alamosa,Medical,
+2014,11,Arapahoe,Medical,1345048.0
+2014,11,Archuleta,Medical,
+2014,11,Boulder,Medical,2400813.0
+2014,11,Chaffee,Medical,
+2014,11,Clear Creek,Medical,91727.0
+2014,11,Costilla,Medical,
+2014,11,Denver,Medical,13469383.0
+2014,11,Eagle,Medical,210732.0
+2014,11,El Paso,Medical,5223552.0
+2014,11,Fremont,Medical,159257.0
+2014,11,Garfield,Medical,318967.0
+2014,11,Gilpin,Medical,
+2014,11,Grand,Medical,
+2014,11,Gunnison,Medical,
+2014,11,Jefferson,Medical,1837165.0
+2014,11,La Plata,Medical,459409.0
+2014,11,Larimer,Medical,1185998.0
+2014,11,Mesa,Medical,
+2014,11,Moffat,Medical,
+2014,11,Montezuma,Medical,
+2014,11,Montrose,Medical,
+2014,11,Morgan,Medical,
+2014,11,Ouray,Medical,
+2014,11,Park,Medical,
+2014,11,Pitkin,Medical,72294.0
+2014,11,Pueblo,Medical,324106.0
+2014,11,Routt,Medical,
+2014,11,San Miguel,Medical,26291.0
+2014,11,Sedgwick,Medical,
+2014,11,Summit,Medical,163698.0
+2014,11,Teller,Medical,
+2014,11,Weld,Medical,416639.0
+2014,12,Adams,Medical,470394.0
+2014,12,Alamosa,Medical,
+2014,12,Arapahoe,Medical,1498465.0
+2014,12,Archuleta,Medical,
+2014,12,Boulder,Medical,2548354.0
+2014,12,Chaffee,Medical,
+2014,12,Clear Creek,Medical,83182.0
+2014,12,Costilla,Medical,
+2014,12,Denver,Medical,12138739.0
+2014,12,Eagle,Medical,277950.0
+2014,12,El Paso,Medical,5517533.0
+2014,12,Fremont,Medical,178729.0
+2014,12,Garfield,Medical,283365.0
+2014,12,Gilpin,Medical,34112.0
+2014,12,Grand,Medical,
+2014,12,Gunnison,Medical,
+2014,12,Jefferson,Medical,1832756.0
+2014,12,La Plata,Medical,497203.0
+2014,12,Larimer,Medical,1316194.0
+2014,12,Las Animas,Medical,
+2014,12,Mesa,Medical,
+2014,12,Moffat,Medical,
+2014,12,Montezuma,Medical,117849.0
+2014,12,Montrose,Medical,
+2014,12,Morgan,Medical,
+2014,12,Ouray,Medical,
+2014,12,Park,Medical,
+2014,12,Pitkin,Medical,84226.0
+2014,12,Pueblo,Medical,399460.0
+2014,12,Routt,Medical,169025.0
+2014,12,San Miguel,Medical,43788.0
+2014,12,Sedgwick,Medical,
+2014,12,Summit,Medical,205226.0
+2014,12,Teller,Medical,
+2014,12,Weld,Medical,394521.0

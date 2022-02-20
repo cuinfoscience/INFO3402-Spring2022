@@ -1,0 +1,338 @@
+Year,Month,County,Type,Sales
+2021,1,Adams,Medical,650900.0
+2021,1,Alamosa,Medical,
+2021,1,Arapahoe,Medical,927494.0
+2021,1,Boulder,Medical,1141777.0
+2021,1,Chaffee,Medical,
+2021,1,Delta,Medical,
+2021,1,Denver,Medical,16305114.0
+2021,1,Eagle,Medical,135546.0
+2021,1,El Paso,Medical,11617216.0
+2021,1,Fremont,Medical,
+2021,1,Garfield,Medical,111053.0
+2021,1,Grand,Medical,
+2021,1,Jefferson,Medical,1703512.0
+2021,1,La Plata,Medical,
+2021,1,Larimer,Medical,759353.0
+2021,1,Las Animas,Medical,45679.0
+2021,1,Mesa,Medical,
+2021,1,Moffat,Medical,
+2021,1,Montezuma,Medical,
+2021,1,Montrose,Medical,
+2021,1,Morgan,Medical,
+2021,1,Otero,Medical,
+2021,1,Park,Medical,
+2021,1,Pueblo,Medical,853421.0
+2021,1,Routt,Medical,
+2021,1,Saguache,Medical,
+2021,1,San Miguel,Medical,
+2021,1,Summit,Medical,
+2021,1,Weld,Medical,377643.0
+2021,2,Adams,Medical,593082.0
+2021,2,Alamosa,Medical,
+2021,2,Arapahoe,Medical,834771.0
+2021,2,Boulder,Medical,1015142.0
+2021,2,Chaffee,Medical,
+2021,2,Delta,Medical,
+2021,2,Denver,Medical,14930775.0
+2021,2,Eagle,Medical,121485.0
+2021,2,El Paso,Medical,10070850.0
+2021,2,Fremont,Medical,
+2021,2,Garfield,Medical,105071.0
+2021,2,Gilpin,Medical,
+2021,2,Grand,Medical,
+2021,2,Jefferson,Medical,1646347.0
+2021,2,La Plata,Medical,
+2021,2,Larimer,Medical,736244.0
+2021,2,Las Animas,Medical,36364.0
+2021,2,Mesa,Medical,
+2021,2,Moffat,Medical,
+2021,2,Montezuma,Medical,
+2021,2,Montrose,Medical,
+2021,2,Morgan,Medical,
+2021,2,Otero,Medical,
+2021,2,Park,Medical,
+2021,2,Pitkin,Medical,
+2021,2,Pueblo,Medical,810079.0
+2021,2,Routt,Medical,
+2021,2,Saguache,Medical,
+2021,2,San Miguel,Medical,
+2021,2,Summit,Medical,
+2021,2,Weld,Medical,
+2021,3,Adams,Medical,680799.0
+2021,3,Alamosa,Medical,
+2021,3,Arapahoe,Medical,958729.0
+2021,3,Boulder,Medical,1198711.0
+2021,3,Chaffee,Medical,
+2021,3,Delta,Medical,
+2021,3,Denver,Medical,18920219.0
+2021,3,Eagle,Medical,140682.0
+2021,3,El Paso,Medical,12645283.0
+2021,3,Fremont,Medical,
+2021,3,Garfield,Medical,124640.0
+2021,3,Gilpin,Medical,
+2021,3,Grand,Medical,
+2021,3,Jefferson,Medical,1934454.0
+2021,3,La Plata,Medical,
+2021,3,Larimer,Medical,872264.0
+2021,3,Las Animas,Medical,49180.0
+2021,3,Mesa,Medical,
+2021,3,Moffat,Medical,
+2021,3,Montezuma,Medical,
+2021,3,Montrose,Medical,
+2021,3,Morgan,Medical,
+2021,3,Otero,Medical,
+2021,3,Park,Medical,
+2021,3,Pitkin,Medical,
+2021,3,Pueblo,Medical,976881.0
+2021,3,Routt,Medical,
+2021,3,Saguache,Medical,
+2021,3,San Miguel,Medical,
+2021,3,Summit,Medical,
+2021,3,Weld,Medical,412680.0
+2021,4,Adams,Medical,520818.0
+2021,4,Alamosa,Medical,
+2021,4,Arapahoe,Medical,936589.0
+2021,4,Boulder,Medical,1199576.0
+2021,4,Chaffee,Medical,
+2021,4,Delta,Medical,
+2021,4,Denver,Medical,18562052.0
+2021,4,Eagle,Medical,148555.0
+2021,4,El Paso,Medical,12618054.0
+2021,4,Fremont,Medical,
+2021,4,Garfield,Medical,124937.0
+2021,4,Gilpin,Medical,
+2021,4,Grand,Medical,
+2021,4,Jefferson,Medical,1862011.0
+2021,4,La Plata,Medical,
+2021,4,Larimer,Medical,890313.0
+2021,4,Las Animas,Medical,42419.0
+2021,4,Mesa,Medical,
+2021,4,Moffat,Medical,
+2021,4,Montezuma,Medical,
+2021,4,Montrose,Medical,
+2021,4,Morgan,Medical,
+2021,4,Otero,Medical,
+2021,4,Park,Medical,
+2021,4,Pitkin,Medical,
+2021,4,Pueblo,Medical,1005294.0
+2021,4,Routt,Medical,
+2021,4,Saguache,Medical,
+2021,4,San Miguel,Medical,
+2021,4,Summit,Medical,
+2021,4,Weld,Medical,412466.0
+2021,5,Adams,Medical,652839.0
+2021,5,Alamosa,Medical,
+2021,5,Arapahoe,Medical,925779.0
+2021,5,Boulder,Medical,1083365.0
+2021,5,Chaffee,Medical,
+2021,5,Delta,Medical,
+2021,5,Denver,Medical,16823800.0
+2021,5,Eagle,Medical,130301.0
+2021,5,El Paso,Medical,11430726.0
+2021,5,Fremont,Medical,
+2021,5,Garfield,Medical,118438.0
+2021,5,Gilpin,Medical,
+2021,5,Grand,Medical,
+2021,5,Jefferson,Medical,2032557.0
+2021,5,La Plata,Medical,
+2021,5,Larimer,Medical,820538.0
+2021,5,Las Animas,Medical,44645.0
+2021,5,Mesa,Medical,
+2021,5,Montezuma,Medical,
+2021,5,Montrose,Medical,
+2021,5,Morgan,Medical,
+2021,5,Otero,Medical,
+2021,5,Park,Medical,
+2021,5,Pitkin,Medical,
+2021,5,Pueblo,Medical,955590.0
+2021,5,Routt,Medical,
+2021,5,Saguache,Medical,
+2021,5,San Miguel,Medical,
+2021,5,Summit,Medical,72782.0
+2021,5,Weld,Medical,376210.0
+2021,6,Adams,Medical,600723.0
+2021,6,Alamosa,Medical,
+2021,6,Arapahoe,Medical,837325.0
+2021,6,Boulder,Medical,1030374.0
+2021,6,Chaffee,Medical,
+2021,6,Delta,Medical,
+2021,6,Denver,Medical,16240567.0
+2021,6,Eagle,Medical,126210.0
+2021,6,El Paso,Medical,10239688.0
+2021,6,Fremont,Medical,
+2021,6,Garfield,Medical,112912.0
+2021,6,Grand,Medical,
+2021,6,Jefferson,Medical,1847287.0
+2021,6,La Plata,Medical,
+2021,6,Larimer,Medical,801977.0
+2021,6,Las Animas,Medical,40870.0
+2021,6,Mesa,Medical,
+2021,6,Moffat,Medical,
+2021,6,Montezuma,Medical,
+2021,6,Montrose,Medical,
+2021,6,Morgan,Medical,
+2021,6,Otero,Medical,
+2021,6,Park,Medical,
+2021,6,Pitkin,Medical,
+2021,6,Pueblo,Medical,
+2021,6,Routt,Medical,
+2021,6,Saguache,Medical,
+2021,6,San Miguel,Medical,
+2021,6,Summit,Medical,82584.0
+2021,6,Weld,Medical,348837.0
+2021,7,Adams,Medical,599583.0
+2021,7,Alamosa,Medical,
+2021,7,Arapahoe,Medical,932390.0
+2021,7,Boulder,Medical,1012706.0
+2021,7,Chaffee,Medical,
+2021,7,Delta,Medical,
+2021,7,Denver,Medical,15745099.0
+2021,7,Eagle,Medical,135513.0
+2021,7,El Paso,Medical,10802872.0
+2021,7,Fremont,Medical,
+2021,7,Garfield,Medical,118857.0
+2021,7,Grand,Medical,
+2021,7,Jefferson,Medical,2040015.0
+2021,7,La Plata,Medical,
+2021,7,Larimer,Medical,
+2021,7,Las Animas,Medical,38739.0
+2021,7,Mesa,Medical,
+2021,7,Moffat,Medical,
+2021,7,Montezuma,Medical,
+2021,7,Montrose,Medical,
+2021,7,Morgan,Medical,
+2021,7,Otero,Medical,
+2021,7,Park,Medical,
+2021,7,Pitkin,Medical,
+2021,7,Pueblo,Medical,1019276.0
+2021,7,Routt,Medical,
+2021,7,Saguache,Medical,
+2021,7,San Miguel,Medical,
+2021,7,Summit,Medical,
+2021,7,Weld,Medical,355730.0
+2021,8,Adams,Medical,558534.62
+2021,8,Alamosa,Medical,
+2021,8,Arapahoe,Medical,1196962.28
+2021,8,Bent,Medical,
+2021,8,Boulder,Medical,1006114.72
+2021,8,Chaffee,Medical,
+2021,8,Costilla,Medical,
+2021,8,Delta,Medical,
+2021,8,Denver,Medical,16144429.26
+2021,8,Eagle,Medical,132267.99
+2021,8,El Paso,Medical,10346998.41
+2021,8,Fremont,Medical,
+2021,8,Garfield,Medical,109372.79
+2021,8,Grand,Medical,
+2021,8,Jefferson,Medical,1807418.67
+2021,8,La Plata,Medical,
+2021,8,Larimer,Medical,847338.58
+2021,8,Las Animas,Medical,
+2021,8,Mesa,Medical,
+2021,8,Moffat,Medical,
+2021,8,Montezuma,Medical,
+2021,8,Montrose,Medical,
+2021,8,Morgan,Medical,
+2021,8,Otero,Medical,
+2021,8,Park,Medical,
+2021,8,Pitkin,Medical,
+2021,8,Pueblo,Medical,898800.67
+2021,8,Routt,Medical,
+2021,8,Saguache,Medical,
+2021,8,San Miguel,Medical,
+2021,8,Summit,Medical,
+2021,8,Weld,Medical,340741.45
+2021,9,Adams,Medical,504739.44
+2021,9,Alamosa,Medical,
+2021,9,Arapahoe,Medical,872520.9
+2021,9,Bent,Medical,
+2021,9,Boulder,Medical,1068173.32
+2021,9,Chaffee,Medical,
+2021,9,Delta,Medical,
+2021,9,Denver,Medical,13515154.31
+2021,9,Eagle,Medical,114400.48
+2021,9,El Paso,Medical,9348649.63
+2021,9,Fremont,Medical,
+2021,9,Garfield,Medical,104918.24
+2021,9,Grand,Medical,
+2021,9,Jefferson,Medical,1486550.97
+2021,9,La Plata,Medical,
+2021,9,Larimer,Medical,780349.02
+2021,9,Las Animas,Medical,
+2021,9,Mesa,Medical,
+2021,9,Moffat,Medical,
+2021,9,Montezuma,Medical,
+2021,9,Montrose,Medical,
+2021,9,Morgan,Medical,
+2021,9,Otero,Medical,
+2021,9,Park,Medical,
+2021,9,Pitkin,Medical,
+2021,9,Pueblo,Medical,865004.06
+2021,9,Routt,Medical,
+2021,9,Saguache,Medical,
+2021,9,San Miguel,Medical,
+2021,9,Summit,Medical,92113.32
+2021,9,Weld,Medical,330194.37
+2021,10,Adams,Medical,523309.29
+2021,10,Alamosa,Medical,
+2021,10,Arapahoe,Medical,796195.78
+2021,10,Bent,Medical,
+2021,10,Boulder,Medical,981680.02
+2021,10,Chaffee,Medical,
+2021,10,Delta,Medical,
+2021,10,Denver,Medical,13004162.95
+2021,10,Eagle,Medical,117468.03
+2021,10,El Paso,Medical,9249620.03
+2021,10,Fremont,Medical,
+2021,10,Garfield,Medical,97014.91
+2021,10,Grand,Medical,
+2021,10,Jefferson,Medical,1365309.84
+2021,10,La Plata,Medical,
+2021,10,Larimer,Medical,735871.52
+2021,10,Las Animas,Medical,
+2021,10,Mesa,Medical,
+2021,10,Moffat,Medical,
+2021,10,Montezuma,Medical,
+2021,10,Montrose,Medical,
+2021,10,Morgan,Medical,
+2021,10,Otero,Medical,
+2021,10,Park,Medical,
+2021,10,Pitkin,Medical,
+2021,10,Pueblo,Medical,770509.29
+2021,10,Routt,Medical,
+2021,10,Saguache,Medical,
+2021,10,San Miguel,Medical,
+2021,10,Summit,Medical,84721.11
+2021,10,Weld,Medical,317151.52
+2021,11,Adams,Medical,488566.28
+2021,11,Alamosa,Medical,
+2021,11,Arapahoe,Medical,695923.58
+2021,11,Bent,Medical,
+2021,11,Boulder,Medical,1026927.05
+2021,11,Chaffee,Medical,
+2021,11,Delta,Medical,
+2021,11,Denver,Medical,11741783.66
+2021,11,Eagle,Medical,110068.29
+2021,11,El Paso,Medical,8547336.98
+2021,11,Fremont,Medical,
+2021,11,Garfield,Medical,90782.51
+2021,11,Grand,Medical,
+2021,11,Jefferson,Medical,1240034.85
+2021,11,La Plata,Medical,
+2021,11,Larimer,Medical,732029.33
+2021,11,Las Animas,Medical,
+2021,11,Mesa,Medical,
+2021,11,Moffat,Medical,
+2021,11,Montezuma,Medical,
+2021,11,Montrose,Medical,
+2021,11,Morgan,Medical,
+2021,11,Otero,Medical,
+2021,11,Park,Medical,
+2021,11,Pitkin,Medical,
+2021,11,Pueblo,Medical,703575.76
+2021,11,Routt,Medical,
+2021,11,Saguache,Medical,
+2021,11,San Miguel,Medical,
+2021,11,Summit,Medical,77189.75
+2021,11,Weld,Medical,304802.2

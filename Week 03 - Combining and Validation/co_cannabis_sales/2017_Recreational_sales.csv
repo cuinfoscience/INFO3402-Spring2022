@@ -1,0 +1,421 @@
+Year,Month,County,Type,Sales
+2017,1,Adams,Recreational,4192709.0
+2017,1,Arapahoe,Recreational,8481055.0
+2017,1,Archuleta,Recreational,
+2017,1,Boulder,Recreational,5351831.0
+2017,1,Chaffee,Recreational,316009.0
+2017,1,Clear Creek,Recreational,584198.0
+2017,1,Conejos,Recreational,294331.0
+2017,1,Costilla,Recreational,214330.0
+2017,1,Denver,Recreational,25681498.0
+2017,1,Eagle,Recreational,1297711.0
+2017,1,El Paso,Recreational,
+2017,1,Garfield,Recreational,1373945.0
+2017,1,Gilpin,Recreational,157003.0
+2017,1,Grand,Recreational,378163.0
+2017,1,Gunnison,Recreational,546542.0
+2017,1,Huerfano,Recreational,
+2017,1,Jefferson,Recreational,4098431.0
+2017,1,Lake,Recreational,188571.0
+2017,1,La Plata,Recreational,1655168.0
+2017,1,Larimer,Recreational,3695944.0
+2017,1,Las Animas,Recreational,2162976.0
+2017,1,Mesa,Recreational,
+2017,1,Montezuma,Recreational,1146208.0
+2017,1,Morgan,Recreational,
+2017,1,Ouray,Recreational,326182.0
+2017,1,Park,Recreational,267804.0
+2017,1,Pitkin,Recreational,1164037.0
+2017,1,Pueblo,Recreational,2334107.0
+2017,1,Routt,Recreational,938153.0
+2017,1,Saguache,Recreational,
+2017,1,San Juan,Recreational,
+2017,1,San Miguel,Recreational,426586.0
+2017,1,Sedgwick,Recreational,
+2017,1,Summit,Recreational,2678675.0
+2017,1,Weld,Recreational,2382718.0
+2017,2,Adams,Recreational,4117924.0
+2017,2,Arapahoe,Recreational,8243087.0
+2017,2,Archuleta,Recreational,498578.0
+2017,2,Boulder,Recreational,5165008.0
+2017,2,Chaffee,Recreational,311277.0
+2017,2,Clear Creek,Recreational,551247.0
+2017,2,Conejos,Recreational,331768.0
+2017,2,Costilla,Recreational,214658.0
+2017,2,Denver,Recreational,25223748.0
+2017,2,Eagle,Recreational,1277562.0
+2017,2,El Paso,Recreational,
+2017,2,Garfield,Recreational,1492785.0
+2017,2,Gilpin,Recreational,180512.0
+2017,2,Grand,Recreational,366095.0
+2017,2,Gunnison,Recreational,493440.0
+2017,2,Huerfano,Recreational,
+2017,2,Jefferson,Recreational,3970982.0
+2017,2,La Plata,Recreational,1708769.0
+2017,2,Lake,Recreational,187885.0
+2017,2,Larimer,Recreational,3771110.0
+2017,2,Las Animas,Recreational,2558480.0
+2017,2,Mesa,Recreational,
+2017,2,Montezuma,Recreational,1275430.0
+2017,2,Morgan,Recreational,623494.0
+2017,2,Ouray,Recreational,331947.0
+2017,2,Park,Recreational,275968.0
+2017,2,Pitkin,Recreational,1076901.0
+2017,2,Pueblo,Recreational,2575500.0
+2017,2,Routt,Recreational,912576.0
+2017,2,Saguache,Recreational,
+2017,2,San Juan,Recreational,
+2017,2,San Miguel,Recreational,394742.0
+2017,2,Sedgwick,Recreational,
+2017,2,Summit,Recreational,2403241.0
+2017,2,Weld,Recreational,2440896.0
+2017,3,Adams,Recreational,5044686.0
+2017,3,Arapahoe,Recreational,10106784.0
+2017,3,Archuleta,Recreational,605222.0
+2017,3,Boulder,Recreational,6322530.0
+2017,3,Chaffee,Recreational,423717.0
+2017,3,Clear Creek,Recreational,640228.0
+2017,3,Conejos,Recreational,401292.0
+2017,3,Costilla,Recreational,295783.0
+2017,3,Denver,Recreational,30626743.0
+2017,3,Eagle,Recreational,1472005.0
+2017,3,El Paso,Recreational,
+2017,3,Garfield,Recreational,1854980.0
+2017,3,Gilpin,Recreational,216220.0
+2017,3,Grand,Recreational,452276.0
+2017,3,Gunnison,Recreational,617409.0
+2017,3,Huerfano,Recreational,
+2017,3,Jefferson,Recreational,4831958.0
+2017,3,La Plata,Recreational,2125562.0
+2017,3,Lake,Recreational,
+2017,3,Larimer,Recreational,4573556.0
+2017,3,Las Animas,Recreational,3349342.0
+2017,3,Mesa,Recreational,
+2017,3,Montezuma,Recreational,1684919.0
+2017,3,Morgan,Recreational,
+2017,3,Ouray,Recreational,
+2017,3,Park,Recreational,356540.0
+2017,3,Pitkin,Recreational,1277247.0
+2017,3,Pueblo,Recreational,3341395.0
+2017,3,Routt,Recreational,1010851.0
+2017,3,Saguache,Recreational,
+2017,3,San Juan,Recreational,
+2017,3,San Miguel,Recreational,477587.0
+2017,3,Sedgwick,Recreational,
+2017,3,Summit,Recreational,2854198.0
+2017,3,Weld,Recreational,2751277.0
+2017,4,Adams,Recreational,4969567.0
+2017,4,Arapahoe,Recreational,9966130.0
+2017,4,Archuleta,Recreational,409149.0
+2017,4,Boulder,Recreational,5899546.0
+2017,4,Chaffee,Recreational,356366.0
+2017,4,Clear Creek,Recreational,478629.0
+2017,4,Conejos,Recreational,404901.0
+2017,4,Costilla,Recreational,256910.0
+2017,4,Denver,Recreational,30186897.0
+2017,4,Eagle,Recreational,938098.0
+2017,4,El Paso,Recreational,
+2017,4,Garfield,Recreational,1809692.0
+2017,4,Gilpin,Recreational,191824.0
+2017,4,Grand,Recreational,265989.0
+2017,4,Gunnison,Recreational,432842.0
+2017,4,Huerfano,Recreational,
+2017,4,Jefferson,Recreational,4695857.0
+2017,4,Lake,Recreational,196156.0
+2017,4,La Plata,Recreational,1867263.0
+2017,4,Larimer,Recreational,4578590.0
+2017,4,Las Animas,Recreational,2875977.0
+2017,4,Mesa,Recreational,
+2017,4,Montezuma,Recreational,1683864.0
+2017,4,Morgan,Recreational,
+2017,4,Ouray,Recreational,
+2017,4,Park,Recreational,301838.0
+2017,4,Pitkin,Recreational,625875.0
+2017,4,Pueblo,Recreational,3094658.0
+2017,4,Routt,Recreational,689882.0
+2017,4,Saguache,Recreational,
+2017,4,San Juan,Recreational,
+2017,4,San Miguel,Recreational,161211.0
+2017,4,Sedgwick,Recreational,
+2017,4,Summit,Recreational,1630117.0
+2017,4,Weld,Recreational,2626833.0
+2017,5,Adams,Recreational,5013781.0
+2017,5,Arapahoe,Recreational,9370054.0
+2017,5,Archuleta,Recreational,
+2017,5,Boulder,Recreational,6368428.0
+2017,5,Chaffee,Recreational,433627.0
+2017,5,Clear Creek,Recreational,460991.0
+2017,5,Conejos,Recreational,444090.0
+2017,5,Costilla,Recreational,332894.0
+2017,5,Denver,Recreational,30503582.0
+2017,5,Eagle,Recreational,689235.0
+2017,5,El Paso,Recreational,
+2017,5,Garfield,Recreational,1911323.0
+2017,5,Gilpin,Recreational,196823.0
+2017,5,Grand,Recreational,218635.0
+2017,5,Gunnison,Recreational,444435.0
+2017,5,Huerfano,Recreational,
+2017,5,Jefferson,Recreational,4370646.0
+2017,5,La Plata,Recreational,1980269.0
+2017,5,Lake,Recreational,197459.0
+2017,5,Larimer,Recreational,4562024.0
+2017,5,Las Animas,Recreational,3471581.0
+2017,5,Mesa,Recreational,
+2017,5,Montezuma,Recreational,1766079.0
+2017,5,Morgan,Recreational,841413.0
+2017,5,Ouray,Recreational,465454.0
+2017,5,Park,Recreational,314186.0
+2017,5,Pitkin,Recreational,485392.0
+2017,5,Pueblo,Recreational,3276386.0
+2017,5,Routt,Recreational,634839.0
+2017,5,Saguache,Recreational,
+2017,5,San Juan,Recreational,
+2017,5,San Miguel,Recreational,189132.0
+2017,5,Sedgwick,Recreational,
+2017,5,Summit,Recreational,1140913.0
+2017,5,Weld,Recreational,2587473.0
+2017,6,Adams,Recreational,5137782.0
+2017,6,Arapahoe,Recreational,9314356.0
+2017,6,Archuleta,Recreational,691943.0
+2017,6,Boulder,Recreational,6880933.0
+2017,6,Chaffee,Recreational,559238.0
+2017,6,Clear Creek,Recreational,581672.0
+2017,6,Conejos,Recreational,510132.0
+2017,6,Costilla,Recreational,403056.0
+2017,6,Denver,Recreational,31586804.0
+2017,6,Eagle,Recreational,916059.0
+2017,6,El Paso,Recreational,
+2017,6,Garfield,Recreational,2042113.0
+2017,6,Gilpin,Recreational,256404.0
+2017,6,Grand,Recreational,330529.0
+2017,6,Gunnison,Recreational,522302.0
+2017,6,Huerfano,Recreational,
+2017,6,Jefferson,Recreational,4405653.0
+2017,6,Lake,Recreational,248265.0
+2017,6,La Plata,Recreational,2206045.0
+2017,6,Larimer,Recreational,4929421.0
+2017,6,Las Animas,Recreational,3836814.0
+2017,6,Mesa,Recreational,
+2017,6,Montezuma,Recreational,1863923.0
+2017,6,Morgan,Recreational,860998.0
+2017,6,Ouray,Recreational,583159.0
+2017,6,Park,Recreational,375371.0
+2017,6,Pitkin,Recreational,880604.0
+2017,6,Pueblo,Recreational,3465138.0
+2017,6,Routt,Recreational,796881.0
+2017,6,Saguache,Recreational,
+2017,6,San Juan,Recreational,
+2017,6,San Miguel,Recreational,397687.0
+2017,6,Sedgwick,Recreational,
+2017,6,Summit,Recreational,1503046.0
+2017,6,Weld,Recreational,2545979.0
+2017,7,Adams,Recreational,5462382.0
+2017,7,Arapahoe,Recreational,9672770.0
+2017,7,Archuleta,Recreational,884084.0
+2017,7,Boulder,Recreational,7070534.0
+2017,7,Chaffee,Recreational,662413.0
+2017,7,Clear Creek,Recreational,678322.0
+2017,7,Conejos,Recreational,586118.0
+2017,7,Costilla,Recreational,453934.0
+2017,7,Denver,Recreational,34007419.0
+2017,7,Eagle,Recreational,1159081.0
+2017,7,El Paso,Recreational,
+2017,7,Garfield,Recreational,2128843.0
+2017,7,Gilpin,Recreational,271414.0
+2017,7,Grand,Recreational,455029.0
+2017,7,Gunnison,Recreational,892740.0
+2017,7,Huerfano,Recreational,
+2017,7,Jefferson,Recreational,4525746.0
+2017,7,Lake,Recreational,320873.0
+2017,7,La Plata,Recreational,2366747.0
+2017,7,Larimer,Recreational,5303480.0
+2017,7,Las Animas,Recreational,4383708.0
+2017,7,Mesa,Recreational,
+2017,7,Montezuma,Recreational,1884658.0
+2017,7,Morgan,Recreational,909700.0
+2017,7,Ouray,Recreational,
+2017,7,Park,Recreational,465717.0
+2017,7,Pitkin,Recreational,1267251.0
+2017,7,Pueblo,Recreational,3762112.0
+2017,7,Routt,Recreational,1009377.0
+2017,7,Saguache,Recreational,
+2017,7,San Juan,Recreational,
+2017,7,San Miguel,Recreational,521810.0
+2017,7,Sedgwick,Recreational,
+2017,7,Summit,Recreational,2001214.0
+2017,7,Weld,Recreational,2659205.0
+2017,8,Adams,Recreational,5481342.0
+2017,8,Arapahoe,Recreational,9187128.0
+2017,8,Archuleta,Recreational,776784.0
+2017,8,Boulder,Recreational,7401555.0
+2017,8,Chaffee,Recreational,614319.0
+2017,8,Clear Creek,Recreational,632988.0
+2017,8,Conejos,Recreational,571105.0
+2017,8,Costilla,Recreational,400679.0
+2017,8,Denver,Recreational,35043361.0
+2017,8,Eagle,Recreational,1394312.0
+2017,8,El Paso,Recreational,
+2017,8,Garfield,Recreational,2108270.0
+2017,8,Gilpin,Recreational,251283.0
+2017,8,Grand,Recreational,426846.0
+2017,8,Gunnison,Recreational,809595.0
+2017,8,Huerfano,Recreational,
+2017,8,Jefferson,Recreational,4474575.0
+2017,8,Lake,Recreational,322375.0
+2017,8,La Plata,Recreational,2289292.0
+2017,8,Larimer,Recreational,5554496.0
+2017,8,Las Animas,Recreational,4437323.0
+2017,8,Mesa,Recreational,
+2017,8,Montezuma,Recreational,1862970.0
+2017,8,Morgan,Recreational,964989.0
+2017,8,Ouray,Recreational,621133.0
+2017,8,Park,Recreational,455141.0
+2017,8,Pitkin,Recreational,1205815.0
+2017,8,Pueblo,Recreational,3815493.0
+2017,8,Routt,Recreational,976301.0
+2017,8,Saguache,Recreational,
+2017,8,San Juan,Recreational,
+2017,8,San Miguel,Recreational,450802.0
+2017,8,Sedgwick,Recreational,
+2017,8,Summit,Recreational,1890882.0
+2017,8,Weld,Recreational,2708742.0
+2017,9,Adams,Recreational,5591544.0
+2017,9,Arapahoe,Recreational,9476898.0
+2017,9,Archuleta,Recreational,715518.0
+2017,9,Boulder,Recreational,7089840.0
+2017,9,Chaffee,Recreational,547218.0
+2017,9,Clear Creek,Recreational,570485.0
+2017,9,Conejos,Recreational,555120.0
+2017,9,Costilla,Recreational,424241.0
+2017,9,Denver,Recreational,34766657.0
+2017,9,Eagle,Recreational,1212598.0
+2017,9,El Paso,Recreational,
+2017,9,Garfield,Recreational,2104540.0
+2017,9,Gilpin,Recreational,266428.0
+2017,9,Grand,Recreational,355550.0
+2017,9,Gunnison,Recreational,728296.0
+2017,9,Huerfano,Recreational,
+2017,9,Jefferson,Recreational,4335662.0
+2017,9,Lake,Recreational,272842.0
+2017,9,La Plata,Recreational,2211371.0
+2017,9,Larimer,Recreational,5491456.0
+2017,9,Las Animas,Recreational,4669330.0
+2017,9,Mesa,Recreational,931484.0
+2017,9,Montezuma,Recreational,1890596.0
+2017,9,Morgan,Recreational,972694.0
+2017,9,Ouray,Recreational,641630.0
+2017,9,Park,Recreational,401682.0
+2017,9,Pitkin,Recreational,1058088.0
+2017,9,Pueblo,Recreational,3869882.0
+2017,9,Routt,Recreational,924592.0
+2017,9,Saguache,Recreational,151900.0
+2017,9,San Juan,Recreational,
+2017,9,San Miguel,Recreational,475875.0
+2017,9,Sedgwick,Recreational,
+2017,9,Summit,Recreational,1561814.0
+2017,9,Weld,Recreational,2723950.0
+2017,10,Adams,Recreational,5441728.0
+2017,10,Arapahoe,Recreational,9221783.0
+2017,10,Archuleta,Recreational,574929.0
+2017,10,Boulder,Recreational,6744069.0
+2017,10,Chaffee,Recreational,452091.0
+2017,10,Clear Creek,Recreational,485097.0
+2017,10,Conejos,Recreational,469150.0
+2017,10,Costilla,Recreational,356750.0
+2017,10,Denver,Recreational,33586096.0
+2017,10,Eagle,Recreational,982903.0
+2017,10,El Paso,Recreational,
+2017,10,Garfield,Recreational,1773496.0
+2017,10,Gilpin,Recreational,197522.0
+2017,10,Grand,Recreational,
+2017,10,Gunnison,Recreational,562053.0
+2017,10,Huerfano,Recreational,
+2017,10,Jefferson,Recreational,4104272.0
+2017,10,Lake,Recreational,205966.0
+2017,10,La Plata,Recreational,1971031.0
+2017,10,Larimer,Recreational,5315541.0
+2017,10,Las Animas,Recreational,4192076.0
+2017,10,Mesa,Recreational,1007121.0
+2017,10,Montezuma,Recreational,1759476.0
+2017,10,Morgan,Recreational,944046.0
+2017,10,Ouray,Recreational,504899.0
+2017,10,Park,Recreational,344712.0
+2017,10,Pitkin,Recreational,703705.0
+2017,10,Pueblo,Recreational,3525795.0
+2017,10,Routt,Recreational,771913.0
+2017,10,Saguache,Recreational,117885.0
+2017,10,San Juan,Recreational,
+2017,10,San Miguel,Recreational,266043.0
+2017,10,Sedgwick,Recreational,
+2017,10,Summit,Recreational,1295739.0
+2017,10,Weld,Recreational,2554620.0
+2017,11,Adams,Recreational,5558469.0
+2017,11,Arapahoe,Recreational,9034873.0
+2017,11,Archuleta,Recreational,508490.0
+2017,11,Boulder,Recreational,6329971.0
+2017,11,Chaffee,Recreational,347798.0
+2017,11,Clear Creek,Recreational,453940.0
+2017,11,Conejos,Recreational,424081.0
+2017,11,Costilla,Recreational,247946.0
+2017,11,Denver,Recreational,31195308.0
+2017,11,Eagle,Recreational,980728.0
+2017,11,El Paso,Recreational,
+2017,11,Garfield,Recreational,1581537.0
+2017,11,Gilpin,Recreational,188913.0
+2017,11,Grand,Recreational,272045.0
+2017,11,Gunnison,Recreational,433357.0
+2017,11,Huerfano,Recreational,
+2017,11,Jefferson,Recreational,3678694.0
+2017,11,Lake,Recreational,174191.0
+2017,11,La Plata,Recreational,1753119.0
+2017,11,Larimer,Recreational,5125412.0
+2017,11,Las Animas,Recreational,3956545.0
+2017,11,Mesa,Recreational,963023.0
+2017,11,Montezuma,Recreational,1658451.0
+2017,11,Morgan,Recreational,880963.0
+2017,11,Ouray,Recreational,
+2017,11,Park,Recreational,323525.0
+2017,11,Pitkin,Recreational,571977.0
+2017,11,Pueblo,Recreational,3320340.0
+2017,11,Routt,Recreational,661206.0
+2017,11,Saguache,Recreational,95793.0
+2017,11,San Juan,Recreational,
+2017,11,San Miguel,Recreational,181166.0
+2017,11,Sedgwick,Recreational,
+2017,11,Summit,Recreational,1411797.0
+2017,11,Weld,Recreational,2433403.0
+2017,12,Adams,Recreational,6120302.0
+2017,12,Arapahoe,Recreational,9761509.0
+2017,12,Archuleta,Recreational,732699.0
+2017,12,Boulder,Recreational,6814221.0
+2017,12,Chaffee,Recreational,398262.0
+2017,12,Clear Creek,Recreational,574268.0
+2017,12,Conejos,Recreational,434200.0
+2017,12,Costilla,Recreational,273773.0
+2017,12,Denver,Recreational,32265126.0
+2017,12,Eagle,Recreational,1531387.0
+2017,12,El Paso,Recreational,
+2017,12,Garfield,Recreational,1681605.0
+2017,12,Gilpin,Recreational,179250.0
+2017,12,Grand,Recreational,435934.0
+2017,12,Gunnison,Recreational,397636.0
+2017,12,Huerfano,Recreational,
+2017,12,Jefferson,Recreational,4291144.0
+2017,12,Lake,Recreational,206999.0
+2017,12,La Plata,Recreational,2010428.0
+2017,12,Larimer,Recreational,5490891.0
+2017,12,Las Animas,Recreational,4019496.0
+2017,12,Mesa,Recreational,1063973.0
+2017,12,Montezuma,Recreational,1687019.0
+2017,12,Morgan,Recreational,920406.0
+2017,12,Ouray,Recreational,442518.0
+2017,12,Park,Recreational,367718.0
+2017,12,Pitkin,Recreational,1271300.0
+2017,12,Pueblo,Recreational,3707967.0
+2017,12,Routt,Recreational,956589.0
+2017,12,Saguache,Recreational,98676.0
+2017,12,San Juan,Recreational,
+2017,12,San Miguel,Recreational,395334.0
+2017,12,Sedgwick,Recreational,
+2017,12,Summit,Recreational,2533302.0
+2017,12,Weld,Recreational,2571924.0

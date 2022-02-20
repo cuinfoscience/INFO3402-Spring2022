@@ -1,0 +1,265 @@
+Year,Month,County,Type,Sales
+2014,1,Adams,Recreational,
+2014,1,Clear Creek,Recreational,459640.0
+2014,1,Denver,Recreational,8482593.0
+2014,1,Garfield,Recreational,
+2014,1,Gilpin,Recreational,197379.0
+2014,1,Gunnison,Recreational,
+2014,1,Jefferson,Recreational,853675.0
+2014,1,Lake,Recreational,
+2014,1,Ouray,Recreational,
+2014,1,Park,Recreational,
+2014,1,Pueblo,Recreational,
+2014,1,Routt,Recreational,
+2014,1,San Miguel,Recreational,338934.0
+2014,1,Summit,Recreational,1274208.0
+2014,1,Weld,Recreational,
+2014,2,Adams,Recreational,
+2014,2,Boulder,Recreational,
+2014,2,Clear Creek,Recreational,445976.0
+2014,2,Denver,Recreational,8349069.0
+2014,2,Garfield,Recreational,
+2014,2,Gilpin,Recreational,113337.0
+2014,2,Gunnison,Recreational,
+2014,2,Jefferson,Recreational,880367.0
+2014,2,Lake,Recreational,
+2014,2,Ouray,Recreational,
+2014,2,Park,Recreational,
+2014,2,Pueblo,Recreational,823156.0
+2014,2,Routt,Recreational,
+2014,2,San Miguel,Recreational,230470.0
+2014,2,Summit,Recreational,1063383.0
+2014,2,Weld,Recreational,
+2014,3,Adams,Recreational,
+2014,3,Boulder,Recreational,1396479.0
+2014,3,Clear Creek,Recreational,524541.0
+2014,3,Denver,Recreational,10746117.0
+2014,3,Garfield,Recreational,
+2014,3,Gilpin,Recreational,131685.0
+2014,3,Gunnison,Recreational,
+2014,3,Jefferson,Recreational,1056723.0
+2014,3,Lake,Recreational,
+2014,3,Ouray,Recreational,
+2014,3,Park,Recreational,
+2014,3,Pitkin,Recreational,
+2014,3,Pueblo,Recreational,1196018.0
+2014,3,Routt,Recreational,
+2014,3,San Miguel,Recreational,319620.0
+2014,3,Summit,Recreational,1427935.0
+2014,3,Weld,Recreational,
+2014,4,Adams,Recreational,
+2014,4,Boulder,Recreational,1835900.0
+2014,4,Clear Creek,Recreational,369117.0
+2014,4,Denver,Recreational,12005332.0
+2014,4,Garfield,Recreational,
+2014,4,Gilpin,Recreational,114408.0
+2014,4,Gunnison,Recreational,
+2014,4,Jefferson,Recreational,1368618.0
+2014,4,Lake,Recreational,
+2014,4,Larimer,Recreational,
+2014,4,Ouray,Recreational,
+2014,4,Park,Recreational,
+2014,4,Pitkin,Recreational,227021.0
+2014,4,Pueblo,Recreational,1132339.0
+2014,4,Routt,Recreational,
+2014,4,San Miguel,Recreational,188733.0
+2014,4,Summit,Recreational,757131.0
+2014,4,Weld,Recreational,521853.0
+2014,5,Adams,Recreational,
+2014,5,Boulder,Recreational,2354205.0
+2014,5,Clear Creek,Recreational,320076.0
+2014,5,Denver,Recreational,11300905.0
+2014,5,Eagle,Recreational,
+2014,5,Garfield,Recreational,292839.0
+2014,5,Gilpin,Recreational,116815.0
+2014,5,Gunnison,Recreational,
+2014,5,Jefferson,Recreational,1435895.0
+2014,5,Lake,Recreational,
+2014,5,Larimer,Recreational,
+2014,5,Ouray,Recreational,
+2014,5,Park,Recreational,
+2014,5,Pitkin,Recreational,185390.0
+2014,5,Pueblo,Recreational,1417017.0
+2014,5,Routt,Recreational,
+2014,5,San Miguel,Recreational,257276.0
+2014,5,Summit,Recreational,545898.0
+2014,5,Weld,Recreational,694205.0
+2014,6,Adams,Recreational,
+2014,6,Boulder,Recreational,2593735.0
+2014,6,Clear Creek,Recreational,396938.0
+2014,6,Denver,Recreational,12245778.0
+2014,6,Eagle,Recreational,
+2014,6,Garfield,Recreational,392391.0
+2014,6,Gilpin,Recreational,145630.0
+2014,6,Gunnison,Recreational,
+2014,6,Jefferson,Recreational,1445315.0
+2014,6,Lake,Recreational,
+2014,6,Larimer,Recreational,
+2014,6,Ouray,Recreational,
+2014,6,Park,Recreational,
+2014,6,Pitkin,Recreational,322473.0
+2014,6,Pueblo,Recreational,1571864.0
+2014,6,Routt,Recreational,
+2014,6,San Miguel,Recreational,451452.0
+2014,6,Sedgwick,Recreational,
+2014,6,Summit,Recreational,686139.0
+2014,6,Weld,Recreational,795293.0
+2014,7,Adams,Recreational,
+2014,7,Boulder,Recreational,3192671.0
+2014,7,Clear Creek,Recreational,473299.0
+2014,7,Denver,Recreational,14518417.0
+2014,7,Eagle,Recreational,
+2014,7,El Paso,Recreational,
+2014,7,Garfield,Recreational,403958.0
+2014,7,Gilpin,Recreational,160328.0
+2014,7,Gunnison,Recreational,307664.0
+2014,7,Jefferson,Recreational,1699749.0
+2014,7,Lake,Recreational,
+2014,7,Larimer,Recreational,1083910.0
+2014,7,Ouray,Recreational,
+2014,7,Park,Recreational,
+2014,7,Pitkin,Recreational,505148.0
+2014,7,Pueblo,Recreational,1985679.0
+2014,7,Routt,Recreational,
+2014,7,Saguache,Recreational,
+2014,7,San Miguel,Recreational,548213.0
+2014,7,Sedgwick,Recreational,
+2014,7,Summit,Recreational,981349.0
+2014,7,Weld,Recreational,1168267.0
+2014,8,Adams,Recreational,
+2014,8,Boulder,Recreational,3644021.0
+2014,8,Chaffee,Recreational,
+2014,8,Clear Creek,Recreational,480132.0
+2014,8,Denver,Recreational,15901236.0
+2014,8,Eagle,Recreational,414091.0
+2014,8,El Paso,Recreational,
+2014,8,Garfield,Recreational,603468.0
+2014,8,Gilpin,Recreational,155054.0
+2014,8,Gunnison,Recreational,309611.0
+2014,8,Jefferson,Recreational,1858831.0
+2014,8,Lake,Recreational,
+2014,8,Larimer,Recreational,1340810.0
+2014,8,Ouray,Recreational,
+2014,8,Park,Recreational,
+2014,8,Pitkin,Recreational,502231.0
+2014,8,Pueblo,Recreational,1685115.0
+2014,8,Routt,Recreational,
+2014,8,Saguache,Recreational,
+2014,8,San Miguel,Recreational,591931.0
+2014,8,Sedgwick,Recreational,
+2014,8,Summit,Recreational,941538.0
+2014,8,Weld,Recreational,1291047.0
+2014,9,Adams,Recreational,
+2014,9,Archuleta,Recreational,
+2014,9,Boulder,Recreational,3314834.0
+2014,9,Chaffee,Recreational,
+2014,9,Clear Creek,Recreational,375860.0
+2014,9,Denver,Recreational,14364191.0
+2014,9,Eagle,Recreational,379890.0
+2014,9,El Paso,Recreational,
+2014,9,Garfield,Recreational,537711.0
+2014,9,Gilpin,Recreational,138821.0
+2014,9,Gunnison,Recreational,255533.0
+2014,9,Jefferson,Recreational,1701706.0
+2014,9,Lake,Recreational,
+2014,9,La Plata,Recreational,
+2014,9,Larimer,Recreational,1378589.0
+2014,9,Morgan,Recreational,
+2014,9,Ouray,Recreational,
+2014,9,Park,Recreational,
+2014,9,Pitkin,Recreational,316259.0
+2014,9,Pueblo,Recreational,1386314.0
+2014,9,Routt,Recreational,
+2014,9,Saguache,Recreational,
+2014,9,San Miguel,Recreational,501532.0
+2014,9,Sedgwick,Recreational,
+2014,9,Summit,Recreational,726128.0
+2014,9,Weld,Recreational,1201206.0
+2014,10,Adams,Recreational,
+2014,10,Arapahoe,Recreational,
+2014,10,Archuleta,Recreational,
+2014,10,Boulder,Recreational,3477557.0
+2014,10,Chaffee,Recreational,
+2014,10,Clear Creek,Recreational,338132.0
+2014,10,Denver,Recreational,14895186.0
+2014,10,Eagle,Recreational,356123.0
+2014,10,El Paso,Recreational,
+2014,10,Garfield,Recreational,553834.0
+2014,10,Gilpin,Recreational,
+2014,10,Gunnison,Recreational,184394.0
+2014,10,Jefferson,Recreational,1714442.0
+2014,10,Lake,Recreational,
+2014,10,La Plata,Recreational,
+2014,10,Larimer,Recreational,1523402.0
+2014,10,Morgan,Recreational,
+2014,10,Ouray,Recreational,
+2014,10,Park,Recreational,
+2014,10,Pitkin,Recreational,246079.0
+2014,10,Pueblo,Recreational,1245865.0
+2014,10,Routt,Recreational,
+2014,10,Saguache,Recreational,
+2014,10,San Miguel,Recreational,278409.0
+2014,10,Sedgwick,Recreational,
+2014,10,Summit,Recreational,632225.0
+2014,10,Weld,Recreational,1126809.0
+2014,11,Adams,Recreational,1304091.0
+2014,11,Arapahoe,Recreational,805369.0
+2014,11,Archuleta,Recreational,
+2014,11,Boulder,Recreational,3196349.0
+2014,11,Chaffee,Recreational,
+2014,11,Clear Creek,Recreational,298012.0
+2014,11,Costilla,Recreational,
+2014,11,Denver,Recreational,13742869.0
+2014,11,Eagle,Recreational,373883.0
+2014,11,El Paso,Recreational,
+2014,11,Garfield,Recreational,507297.0
+2014,11,Gilpin,Recreational,
+2014,11,Grand,Recreational,
+2014,11,Gunnison,Recreational,133062.0
+2014,11,Jefferson,Recreational,1679786.0
+2014,11,Lake,Recreational,
+2014,11,La Plata,Recreational,647493.0
+2014,11,Larimer,Recreational,1493948.0
+2014,11,Las Animas,Recreational,
+2014,11,Morgan,Recreational,
+2014,11,Ouray,Recreational,
+2014,11,Park,Recreational,
+2014,11,Pitkin,Recreational,216781.0
+2014,11,Pueblo,Recreational,1137217.0
+2014,11,Routt,Recreational,
+2014,11,Saguache,Recreational,
+2014,11,San Miguel,Recreational,169659.0
+2014,11,Sedgwick,Recreational,
+2014,11,Summit,Recreational,706675.0
+2014,11,Weld,Recreational,992006.0
+2014,12,Adams,Recreational,1445817.0
+2014,12,Arapahoe,Recreational,1416559.0
+2014,12,Archuleta,Recreational,
+2014,12,Boulder,Recreational,3592405.0
+2014,12,Chaffee,Recreational,
+2014,12,Clear Creek,Recreational,371997.0
+2014,12,Costilla,Recreational,
+2014,12,Denver,Recreational,14797861.0
+2014,12,Eagle,Recreational,710631.0
+2014,12,El Paso,Recreational,
+2014,12,Garfield,Recreational,560065.0
+2014,12,Gilpin,Recreational,103121.0
+2014,12,Grand,Recreational,
+2014,12,Gunnison,Recreational,228173.0
+2014,12,Jefferson,Recreational,1990092.0
+2014,12,Lake,Recreational,
+2014,12,La Plata,Recreational,838948.0
+2014,12,Larimer,Recreational,1613144.0
+2014,12,Las Animas,Recreational,
+2014,12,Montezuma,Recreational,
+2014,12,Morgan,Recreational,
+2014,12,Ouray,Recreational,
+2014,12,Park,Recreational,
+2014,12,Pitkin,Recreational,599569.0
+2014,12,Pueblo,Recreational,1158670.0
+2014,12,Routt,Recreational,493734.0
+2014,12,Saguache,Recreational,
+2014,12,San Miguel,Recreational,292834.0
+2014,12,Sedgwick,Recreational,
+2014,12,Summit,Recreational,1256397.0
+2014,12,Weld,Recreational,1071049.0
