@@ -20,7 +20,8 @@ The class will use of the Medium blogging platform. Instruction on how to create
 Students will use programming languages for data analysis and visualization. Jupyter notebooks written in Python 3 will be used for all in-class examples and assignments. The Anaconda distribution of Python 3.8 (or above) is strongly recommended to provide all of these programs and other libraries. We will be using the Matplotlib and Seaborn libraries for data visualization. Lectures will include exercises and presentations with the expectation that students participate with their own laptop computers. If students cannot bring a laptop to class, they should email the instructor to work out an alternative arrangement.
 
 If students wish to use an alternative programmatic data analysis software (R, Matlab, Julia,etc.) or other Python data visualization libraries (Plotly, Altair, Bokeh,etc.) they are welcome to do so, but instructional support will only be provided for Python and Matplotlib. Students are not permitted to use spreadsheet(Microsoft Excel, Apple Numbers,etc.) or business intelligence (Tableau, Microsoft PowerBI,etc.) software for assignments. The instructors reserve the right to conduct a code review on any assignment submitted by a student to ensure academic integrity. Students who are unable or unwilling to describe how their submitted code works will lose all credit on the assignment.
-Evaluation
+
+## Evaluation
 
 Students will be evaluated through four mechanisms. The class has no midterm or final exam.
 
